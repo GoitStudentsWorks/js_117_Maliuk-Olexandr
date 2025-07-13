@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-team-work-booksy/",
+    "build": "vite build --base=/js_117_Maliuk-Olexandr/",
     "preview": "vite preview"
   },
   "devDependencies": {
